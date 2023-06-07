@@ -3,9 +3,9 @@ using UnityEngine;
 
 public class OBJECTSMOVING : MonoBehaviour
 {
-    [SerializeField] private float speed = -0.05f;
+    [SerializeField] private float TemplateSpeed = 5f;
     void Update()
     {
-        transform.Translate( Vector3.right * speed); 
+        transform.position -= new Vector3 (TemplateSpeed *  Time.deltaTime, 0, 0);
     }
 }
