@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 740f06384819a9f498b0796b3b968ae2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 526
+        width: 116
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249ed3ce7149b244695984646dcd8ac4
+      internalID: -1438100827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 519
+        width: 86
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dc123dc4bacbd49b347c87a19da657
+      internalID: -1891518357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 517
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611358e335810e74a8060be8246c5ef0
+      internalID: 2068261957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_3
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 526
+        width: 104
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ddba232402d8f4db04fe4eeb1e6988
+      internalID: -747226704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 517
+        width: 96
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c33a294fb39f64469f5b143a29ef093
+      internalID: -1827530357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_5
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 517
+        width: 75
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4236dddde779c6040981db31eea0d86d
+      internalID: 232852324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 250
+        width: 75
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aef22a7fb4064749b8d4c389bc35d98
+      internalID: 157608038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 250
+        width: 79
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a82029a48f91d643be4a271b97d79e6
+      internalID: 824307360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 250
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414129da78c0c7a42bceff57c860986b
+      internalID: -1419688035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_9
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 260
+        width: 94
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a48aa2f0f124846ba40b831eeec142
+      internalID: 884361072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 271
+        width: 109
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7cd8bf0d6404748be5bed70a34e567
+      internalID: -893604023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_11
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 287
+        width: 109
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d06956acfa82584a8f5d6784f3efcd5
+      internalID: 879840079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 49
+        width: 109
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2814d3468f717804aa1a26126c086ca3
+      internalID: -393364010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 49
+        width: 109
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3554f34dd5859554989737e82750ea9f
+      internalID: -1320008035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 49
+        width: 109
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9567ac08f5efd544a703047b0c836fe
+      internalID: 1743302597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 49
+        width: 109
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d51ddbc797a70b4c970a55713d5b52b
+      internalID: -1082352086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 11
+        width: 106
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9492d2b4406f6d740a613f9a2f65f817
+      internalID: -1572679733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics
+        1_17
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 21
+        width: 108
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622b6e739506824bbd947a771cfa466
+      internalID: -623813769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_0: -1438100827
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_1: -1891518357
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_10: -893604023
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_11: 879840079
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_12: -393364010
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_13: -1320008035
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_14: 1743302597
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_15: -1082352086
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_16: -1572679733
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_17: -623813769
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_2: 2068261957
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_3: -747226704
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_4: -1827530357
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_5: 232852324
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_6: 157608038
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_7: 824307360
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_8: -1419688035
+      png-clipart-green-and-black-illustration-superbrothers-sword-sworcery-ep-sprite-platform-game-video-game-animation-sprite-game-3d-computer-graphics 1_9: 884361072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
