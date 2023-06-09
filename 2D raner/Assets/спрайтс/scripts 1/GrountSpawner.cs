@@ -4,9 +4,8 @@ using UnityEngine;
 
 public class GrountSpawner : MonoBehaviour
 {
-    [SerializeField] private GameObject templatePlatforms;
+    [SerializeField] private GameObject[] templatePlatforms;
     
-    private GameObject spawnPlatforms;
     
    private void Start()
     {
@@ -15,6 +14,6 @@ public class GrountSpawner : MonoBehaviour
    
     private void Platforms()
     {
-       spawnPlatforms = Instantiate(templatePlatforms, transform.position,Quaternion.identity) as  GameObject;
+      Instantiate(templatePlatforms[Random.Range(0,templatePlatforms.Length)],transform.position,Quaternion.identity);
     }
 }
