@@ -1,6 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using TMPro;
 
 public class Player : MonoBehaviour
 {
@@ -10,7 +10,11 @@ public class Player : MonoBehaviour
         [SerializeField] private GameObject DeathScreen;
 
         [SerializeField] private float jumpVelocity = 20;
-
+           
+        [SerializeField] private GameObject PlayerUI;
+       
+        
+      
         private Animator animation;
         private Rigidbody2D rigidbody;
         private bool jump = false;
@@ -46,8 +50,9 @@ public class Player : MonoBehaviour
        if(other.gameObject.tag == "Obstacle")
         
         {
-            DeathScreen.SetActive(true);
-            Time.timeScale = 0f;
+          DeathScreen.SetActive(true);
+          PlayerUI.SetActive(false);
+          Time.timeScale = 0f;
         }
 
         }
